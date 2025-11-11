@@ -1,0 +1,16 @@
+# Data Science Libraries
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+statsmodels
+jupyter
+
+# Quantum Computing Libraries 
+pennylane==0.42.3
+pennylane_lightning==0.42.0
+
+# Backend 
+torch
+
